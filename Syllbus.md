@@ -42,12 +42,6 @@
 
 ### 20. Converting E-R & EER Diagrams into Tables
 
-### Case Study
-
-#### Study of Architecture of any DBMS like Oracle or MySQL
-
-#### Design a Database Schema for Problems Given in Previous Question Papers
-
 ---
 
 ## Unit II - SQL and PL/SQL
@@ -100,22 +94,6 @@
 
 ### 23. Trigger
 
-### Case Study
-
-#### Design and Implement a Student Course Management System
-
-#### Student Management
-
-#### Course Management
-
-#### Faculty Management
-
-#### Data Integrity
-
-#### Security
-
-#### Performance Optimization
-
 ---
 
 ## Unit III - Relational Database Design
@@ -147,10 +125,6 @@
 ### 13. Third Normal Form (3NF)
 
 ### 14. Boyce-Codd Normal Form (BCNF)
-
-### Case Study
-
-#### Design and Optimization of a Relational Database for a University Management System
 
 ---
 
@@ -186,22 +160,6 @@
 
 ### 15. Locking Methods
 
-### Case Study
-
-#### Online Shopping Cart Transaction Management
-
-#### Concurrent Transactions
-
-#### Product Addition
-
-#### Product Updates
-
-#### Product Purchase Operations
-
-#### Data Consistency
-
-#### Reliability
-
 ---
 
 ## Unit V - NoSQL Database
@@ -223,7 +181,3 @@
 ### 8. Indexing
 
 ### 9. Aggregation
-
-### Case Study
-
-#### NoSQL Database Selection for a Social Media Platform
